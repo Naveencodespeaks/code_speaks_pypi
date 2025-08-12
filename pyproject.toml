@@ -10,7 +10,7 @@ readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.8"
 license = { text = "MIT" }
 authors = [
-    { name = "Naveen", email = "you@example.com" }
+    { name = "Naveen", email = "sainaveenadepu@gmail.com" }
 ]
 keywords = ["example", "demo"]
 classifiers = [
